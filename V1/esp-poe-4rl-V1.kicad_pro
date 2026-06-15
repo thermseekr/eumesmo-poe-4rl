@@ -81,7 +81,16 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|153487644|73640689|f4267478-2bc3-4cb0-a2c4-678cec7679af|00000000-0000-0000-0000-000000000000",
+          "Footprint edited to fit the area available."
+        ],
+        [
+          "lib_footprint_mismatch|165500000|77500000|84d818c1-f4b6-4d0a-a606-a0aa86085785|00000000-0000-0000-0000-000000000000",
+          "Footprint edited to fit the area available."
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -535,7 +544,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp-poe-4rl-v1.kicad_pro",
+    "filename": "esp-poe-4rl-V1.kicad_pro",
     "version": 3
   },
   "net_settings": {
