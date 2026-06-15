@@ -5,6 +5,8 @@
 	(uuid "7bc6a840-2969-40b3-b36c-00d8d64387fe")
 	(paper "A4")
 	(title_block
+		(title "ESP 4x Relay Output Module with PoE")
+		(date "2026-06-10")
 		(rev "V1.0")
 	)
 	(lib_symbols
