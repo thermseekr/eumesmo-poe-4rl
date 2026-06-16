@@ -544,7 +544,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp-poe-4rl-V1.kicad_pro",
+    "filename": "eumesmo-poe-4rl-v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -982,8 +982,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "esp-poe-4rl-v1.kicad_sch",
-        "name": "esp-poe-4rl-v1",
+        "filename": "eumesmo-poe-4rl-v1.kicad_sch",
+        "name": "eumesmo-poe-4rl-v1",
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
@@ -993,7 +993,7 @@
   "sheets": [
     [
       "2bc5a21a-1d79-419d-a592-6852cc07b00a",
-      "esp-poe-4rl-v1"
+      "eumesmo-poe-4rl-v1"
     ],
     [
       "2ac7b96d-5459-407c-a3e3-5692241632df",
