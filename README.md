@@ -1,13 +1,11 @@
-# ESP-POE-4RL
-ESP32 based board with PoE and four SPDT relays. To be used for controlling loads that cannot be commanded from the main cabinet, like for example when you need a dry contact near some equipment or appliance. The PoE power source avoids the need for additional cabling.
+# eumesmo-poe-4rl
+PoE powered ESP32 based board featuring 4 SPST NO relays. Ideal for access control, doors, isolated zones or for installing anywhere you need to click dry contacts near some equipment or appliance.
 
-A case is also available for 3D printing.
-
-![alt text](https://github.com/thermseekr/esp-poe-4rl/blob/main/V1/esp-poe-4rl-V1.0.0.png "ESP-POE-4RL")
+![eumesmo-poe-4rl](https://github.com/thermseekr/eumesmo-poe-4rl/blob/main/V1/eumesmo-poe-4rl-v1.0.png)
 
 ## VERSION HISTORY
 
-ESP-POE-2RL V1.0 - 2026/??/?? - Initial release.
+V1.0 - 2026/06/16 - Initial release.
 
 ## LICENSE
 
