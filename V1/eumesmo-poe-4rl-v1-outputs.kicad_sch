@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "eumesmo 4x Relay Output Module with PoE")
-		(date "2026-06-17")
-		(rev "V1.0")
+		(date "2026-07-02")
+		(rev "V1.1")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
