@@ -5,6 +5,8 @@ PoE powered ESP32 based board featuring 4 SPST NO relays. Ideal for access contr
 
 ## VERSION HISTORY
 
+V1.1 - 2026/07/02 - Added CPU health LED.
+
 V1.0 - 2026/06/16 - Initial release.
 
 ## LICENSE
