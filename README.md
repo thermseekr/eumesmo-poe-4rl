@@ -1,7 +1,7 @@
 # eumesmo-poe-4rl
 PoE powered ESP32 based board featuring 4 SPST NO relays. Ideal for access control, doors, isolated zones or for installing anywhere you need to click dry contacts near some equipment or appliance.
 
-![eumesmo-poe-4rl](https://github.com/thermseekr/eumesmo-poe-4rl/blob/main/V1/eumesmo-poe-4rl-v1.0.png)
+![eumesmo-poe-4rl](https://github.com/thermseekr/eumesmo-poe-4rl/blob/main/V1/eumesmo-poe-4rl-v1.1.png)
 
 ## VERSION HISTORY
 
