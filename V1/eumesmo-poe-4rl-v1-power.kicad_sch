@@ -4405,7 +4405,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE"
+		(property "Value" "WHITE/0603"
 			(at 133.35 170.1164 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5078,7 +5078,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C185323"
+		(property "LCSC Part #" "C23198"
 			(at 137.16 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5089,7 +5089,7 @@
 				(justify left)
 			)
 		)
-		(property "Mfr" "Yageo"
+		(property "Mfr" "Uniroyal"
 			(at 134.62 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -5100,7 +5100,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "RC0603FR-0752K3L"
+		(property "Mfr PN" "0603WAF5232T5E"
 			(at 134.62 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -5122,7 +5122,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C185323"
+		(property "Vendor PN" "C23198"
 			(at 134.62 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6258,7 +6258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 133.35 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6313,7 +6313,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 130.81 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6335,7 +6335,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 130.81 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6357,7 +6357,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 133.35 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)

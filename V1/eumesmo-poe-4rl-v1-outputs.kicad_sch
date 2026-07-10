@@ -1549,6 +1549,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "I_{LED} = (5V - V_{LED} - V_{CE}) / 1k\nI_{LED} = (5V - 2.7V - 0,1V) / 1k\nI_{LED} = 2,3 mA"
+		(exclude_from_sim no)
+		(at 68.58 40.64 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "b58632bf-f5b5-4773-b158-b808840ae895")
+	)
 	(junction
 		(at 81.28 49.53)
 		(diameter 0)
@@ -3072,7 +3083,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680R"
+		(property "Value" "1k"
 			(at 64.77 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3127,7 +3138,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF6800TCE"
+		(property "Mfr PN" "0402WGF1001TCE"
 			(at 62.23 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -3149,7 +3160,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25130"
+		(property "Vendor PN" "C11702"
 			(at 62.23 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -3171,7 +3182,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25130"
+		(property "LCSC Part #" "C11702"
 			(at 64.77 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3755,7 +3766,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE"
+		(property "Value" "WHITE/0603"
 			(at 64.77 65.9764 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4309,7 +4320,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE"
+		(property "Value" "WHITE/0603"
 			(at 193.04 65.9764 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4501,7 +4512,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE"
+		(property "Value" "WHITE/0603"
 			(at 193.04 110.4264 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5211,7 +5222,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680R"
+		(property "Value" "1k"
 			(at 64.77 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5266,7 +5277,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF6800TCE"
+		(property "Mfr PN" "0402WGF1001TCE"
 			(at 62.23 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5288,7 +5299,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25130"
+		(property "Vendor PN" "C11702"
 			(at 62.23 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5310,7 +5321,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25130"
+		(property "LCSC Part #" "C11702"
 			(at 64.77 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5818,7 +5829,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680R"
+		(property "Value" "1k"
 			(at 193.04 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5873,7 +5884,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF6800TCE"
+		(property "Mfr PN" "0402WGF1001TCE"
 			(at 190.5 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5895,7 +5906,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25130"
+		(property "Vendor PN" "C11702"
 			(at 190.5 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5917,7 +5928,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25130"
+		(property "LCSC Part #" "C11702"
 			(at 193.04 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7295,7 +7306,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680R"
+		(property "Value" "1k"
 			(at 193.04 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7350,7 +7361,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF6800TCE"
+		(property "Mfr PN" "0402WGF1001TCE"
 			(at 190.5 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7372,7 +7383,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25130"
+		(property "Vendor PN" "C11702"
 			(at 190.5 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7394,7 +7405,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25130"
+		(property "LCSC Part #" "C11702"
 			(at 193.04 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9368,7 +9379,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE"
+		(property "Value" "WHITE/0603"
 			(at 64.77 110.4264 90)
 			(show_name no)
 			(do_not_autoplace no)
