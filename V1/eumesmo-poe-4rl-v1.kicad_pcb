@@ -933,6 +933,12 @@
 		(path "/fa6fab2c-3222-4952-9b42-512cb0b08199")
 		(sheetname "/")
 		(sheetfile "eumesmo-poe-4rl-v1.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
