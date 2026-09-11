@@ -2631,6 +2631,17 @@
 		)
 		(uuid "be03d2f8-f0d8-44d3-b96f-a606d47d828e")
 	)
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (3.3V - V_{F}) / R\nI_{LED} = (3.3V - 1.8V) / 680R\nI_{LED} = 2,20 mA"
+		(exclude_from_sim no)
+		(at 129.54 190.5 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "bec1688f-0965-43b1-bf79-0615b6323a50")
+	)
 	(text "R_{TX1}"
 		(exclude_from_sim no)
 		(at 129.54 102.87 0)
@@ -4405,7 +4416,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 133.35 170.1164 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4449,7 +4460,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 130.81 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4460,7 +4471,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 130.81 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4471,7 +4482,7 @@
 				)
 			)
 		)
-		(property "Technology" "InGaN"
+		(property "Technology" "LED"
 			(at 130.81 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4493,7 +4504,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 130.81 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4504,7 +4515,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 133.35 172.6564 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6258,7 +6269,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 133.35 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6313,7 +6324,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 130.81 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6335,7 +6346,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 130.81 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -6357,7 +6368,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 133.35 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)

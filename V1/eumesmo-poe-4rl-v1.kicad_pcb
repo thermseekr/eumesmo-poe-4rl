@@ -3388,7 +3388,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.2k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "e8748b0f-f77e-49e4-b12b-36cf9edc2314")
@@ -3434,7 +3434,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1001TCE"
+		(property "Mfr PN" "0402WGF1201TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3460,7 +3460,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C11702"
+		(property "Vendor PN" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3486,7 +3486,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C11702"
+		(property "LCSC Part #" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6174,7 +6174,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.2k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "be11db97-6df2-4987-a3a0-7a4f3db7153d")
@@ -6220,7 +6220,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1001TCE"
+		(property "Mfr PN" "0402WGF1201TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6246,7 +6246,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C11702"
+		(property "Vendor PN" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6272,7 +6272,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C11702"
+		(property "LCSC Part #" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8293,7 +8293,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "e0b8d143-2e06-4e92-a425-7c34f96eed17")
@@ -8328,7 +8328,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8341,7 +8341,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8354,7 +8354,7 @@
 				)
 			)
 		)
-		(property "Technology" "InGaN"
+		(property "Technology" "LED"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8380,7 +8380,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8393,7 +8393,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9450,8 +9450,8 @@
 		(units
 			(unit
 				(name "A")
-				(pins "3" "4" "5" "21" "22" "17" "18" "20" "19" "32" "2" "1" "38" "39"
-					"15" "25" "35" "24" "34" "26" "29" "14" "16" "13" "23" "27" "28" "30"
+				(pins "3" "4" "5" "21" "22" "17" "18" "20" "19" "32" "2" "1" "38" "15"
+					"39" "25" "35" "24" "34" "26" "29" "14" "16" "13" "23" "27" "28" "30"
 					"31" "33" "36" "37" "10" "11" "12" "8" "9" "6" "7"
 				)
 			)
@@ -12290,7 +12290,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "4d938bde-5966-422e-9296-ea27c3f63367")
@@ -12325,7 +12325,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12338,7 +12338,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12351,7 +12351,7 @@
 				)
 			)
 		)
-		(property "Technology" "InGaN"
+		(property "Technology" "LED"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12377,7 +12377,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12390,7 +12390,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14339,7 +14339,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.2k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "9e747680-e39c-4cf2-af05-bb9d6766db34")
@@ -14385,7 +14385,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1001TCE"
+		(property "Mfr PN" "0402WGF1201TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14411,7 +14411,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C11702"
+		(property "Vendor PN" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14437,7 +14437,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C11702"
+		(property "LCSC Part #" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16562,7 +16562,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.2k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "6e4ee89c-91ee-44c5-89ab-dbffccf38970")
@@ -16608,7 +16608,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1001TCE"
+		(property "Mfr PN" "0402WGF1201TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16634,7 +16634,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C11702"
+		(property "Vendor PN" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16660,7 +16660,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C11702"
+		(property "LCSC Part #" "C25862"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18646,7 +18646,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "1598b141-7d0f-4783-bb6a-a1ad502b7f91")
@@ -18705,7 +18705,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18731,7 +18731,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18757,7 +18757,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24101,7 +24101,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "bd8697cd-6e7f-4524-9ad8-9fbf2471ab98")
@@ -24149,7 +24149,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24162,7 +24162,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24201,7 +24201,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24214,7 +24214,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24259,6 +24259,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a942f011-b21f-4fed-9d27-82bf1c9fd1bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "0603/1608"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea19367f-8a1b-4b1a-8091-3a4d0fca59dc")
 			(effects
 				(font
 					(size 1 1)
@@ -24470,7 +24483,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "3250a200-1172-4876-af3c-c2ec3c9e2268")
@@ -24505,7 +24518,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24518,7 +24531,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24531,7 +24544,7 @@
 				)
 			)
 		)
-		(property "Technology" "InGaN"
+		(property "Technology" "LED"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24557,7 +24570,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24570,7 +24583,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25438,7 +25451,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "d09abfad-069e-4077-b38e-3871b850c123")
@@ -25473,7 +25486,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25486,7 +25499,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25499,7 +25512,7 @@
 				)
 			)
 		)
-		(property "Technology" "InGaN"
+		(property "Technology" "LED"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25525,7 +25538,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25538,7 +25551,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34027,7 +34040,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "a705e291-2025-4ab3-a092-5382170ee558")
@@ -34062,7 +34075,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34075,7 +34088,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34088,7 +34101,7 @@
 				)
 			)
 		)
-		(property "Technology" "InGaN"
+		(property "Technology" "LED"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34114,7 +34127,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34127,7 +34140,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43380,7 +43393,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "726c9f6d-a4e8-40b7-b758-6211e0b32014")
@@ -43426,7 +43439,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43452,7 +43465,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43478,7 +43491,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
